@@ -1,4 +1,4 @@
-# AVL Tree Implementation in Python
+# AVL Tree Implementation
 
 This project provides an implementation of an **AVL Tree** — a self-balancing binary search tree that guarantees 
 efficient performance for fundamental operations (search, insertion, deletion) in $O(\log n)$ time.
